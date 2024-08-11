@@ -9,7 +9,7 @@
 </div>
 
 ```
-npm install @epic-web/totp
+npm install @boringtutor/totp
 ```
 
 <hr />
